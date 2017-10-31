@@ -4,8 +4,10 @@
 - Language: Japanese
 
 ## Guilty Gear: Judgment (PSP)
-- Genre: 2D Fighter
-- Language: Japanese/English
+- Genre: Beat 'em up / Fighter
+- Language: English / Japanese
+
+
 
 # TODO
 ## Untold Legends (PSP)
